@@ -34,12 +34,16 @@ for foi in root.findall('Grad'):
         osmCity = 'http://nominatim.openstreetmap.org/search?q=&format=json&city=%s' % quote(foiName.encode('utf-8'))
         request = (osmCity)
         response = urlopen(request)
-        respData = json.load(response)
+        str_response = response.read().decode('utf-8')
+        respData = json.loads(str_response)
+        #respData = response.json()
         if not respData:
             osmQuery = 'http://nominatim.openstreetmap.org/search?q=%s&format=json' % quote(foiName.encode('utf-8'))
             request = Request(osmQuery)
             response = urlopen(request)
-            respData = json.load(response)
+            str_response = response.read().decode('utf-8')
+            respData = json.loads(str_response)
+            #respData = json.load(response)
         if not respData:
             print("FOI name '%s' not found in openstreetmap nominatim service" % foiName.encode('utf-8'))
             continue
