@@ -1,0 +1,77 @@
+/usr/local/lib/python3.6/dist-packages/psycopg2/__init__.py:144: UserWarning: The psycopg2 wheel package will be renamed from release 2.8; in order to keep installing from binary please use "pip install psycopg2-binary" instead. For details see: <http://initd.org/psycopg/docs/install.html#binary-install-from-pypi>.
+  """)
+****** Scrapper process started on '2018-03-04T12:00:02.081541' 
+
+Processing observations for datetime: '2018-03-04T09:00:00'
+Observations for foi '1' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '2' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '3' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '4' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '5' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '6' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '7' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '8' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '9' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '10' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '11' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '12' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '13' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '14' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '15' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '16' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '17' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '18' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '19' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '21' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '22' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '23' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '24' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '25' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '26' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '27' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '28' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '29' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '30' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '72' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '32' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '33' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '34' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '35' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '36' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '37' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '38' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '39' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '40' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '41' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '42' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '71' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '43' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '44' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '45' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '46' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '47' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '48' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '49' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '50' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '51' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '52' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '53' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '54' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '55' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '56' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '57' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '58' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '59' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '60' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '61' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '62' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '63' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '65' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '66' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '67' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '68' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '69' and time '2018-03-04T09:00:00' are already stored in the database
+Observations for foi '70' and time '2018-03-04T09:00:00' are already stored in the database
+
+****** Scrapper process finished on '2018-03-04T12:00:05.063222' 
+

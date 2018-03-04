@@ -1,0 +1,255 @@
+****** Scrapper process started on '2018-02-27T16:29:05.420181' 
+
+Processing observations for datetime: '2018-02-27T16:00:00'
+Existing FOI:'111'
+Observations for grad '111' and time '2018-02-27T16:00:00' are already stored in the database
+Existing FOI:'112'
+Observations for grad '112' and time '2018-02-27T16:00:00' are already stored in the database
+Existing FOI:'113'
+Observations for grad '113' and time '2018-02-27T16:00:00' are already stored in the database
+Existing FOI:'114'
+Observations for grad '114' and time '2018-02-27T16:00:00' are already stored in the database
+ERROR executing: INSERT INTO grad (id,geom) VALUES ('Dubrovnik', ST_SetSRID(ST_MakePoint(18.085, 42.645),4326) RETURNING OID 
+   Returned error:  syntax error at or near "RETURNING"
+LINE 1: ...k', ST_SetSRID(ST_MakePoint(18.085, 42.645),4326) RETURNING ...
+                                                             ^
+
+****** Scrapper process started on '2018-02-27T16:29:47.157005' 
+
+Processing observations for datetime: '2018-02-27T16:00:00'
+Existing FOI:'111'
+Observations for grad '111' and time '2018-02-27T16:00:00' are already stored in the database
+Existing FOI:'112'
+Observations for grad '112' and time '2018-02-27T16:00:00' are already stored in the database
+Existing FOI:'113'
+Observations for grad '113' and time '2018-02-27T16:00:00' are already stored in the database
+Existing FOI:'114'
+Observations for grad '114' and time '2018-02-27T16:00:00' are already stored in the database
+ERROR executing: INSERT INTO grad (id,geom) VALUES ('Dubrovnik', ST_SetSRID(ST_MakePoint(18.085, 42.645),4326) RETURNING OID 
+   Returned error:  syntax error at or near "RETURNING"
+LINE 1: ...k', ST_SetSRID(ST_MakePoint(18.085, 42.645),4326) RETURNING ...
+                                                             ^
+
+False
+****** Scrapper process started on '2018-02-27T16:30:19.190616' 
+
+Processing observations for datetime: '2018-02-27T16:00:00'
+Existing FOI:'111'
+Observations for grad '111' and time '2018-02-27T16:00:00' are already stored in the database
+Existing FOI:'112'
+Observations for grad '112' and time '2018-02-27T16:00:00' are already stored in the database
+Existing FOI:'113'
+Observations for grad '113' and time '2018-02-27T16:00:00' are already stored in the database
+Existing FOI:'114'
+Observations for grad '114' and time '2018-02-27T16:00:00' are already stored in the database
+[[153]]
+Inserting new FOI:'153'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '153'
+[[154]]
+Inserting new FOI:'154'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '154'
+Existing FOI:'115'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '115'
+Existing FOI:'116'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '116'
+Existing FOI:'117'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '117'
+Existing FOI:'118'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '118'
+Existing FOI:'119'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '119'
+Existing FOI:'120'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '120'
+Existing FOI:'121'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '121'
+Existing FOI:'122'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '122'
+Existing FOI:'123'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '123'
+Existing FOI:'124'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '124'
+Existing FOI:'125'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '125'
+Existing FOI:'127'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '127'
+Existing FOI:'128'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '128'
+Existing FOI:'129'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '129'
+[[155]]
+Inserting new FOI:'155'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '155'
+Existing FOI:'130'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '130'
+Existing FOI:'131'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '131'
+Existing FOI:'132'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '132'
+Existing FOI:'133'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '133'
+Existing FOI:'134'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '134'
+Existing FOI:'135'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '135'
+Existing FOI:'136'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '136'
+[[156]]
+Inserting new FOI:'156'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '156'
+Existing FOI:'137'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '137'
+Existing FOI:'138'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '138'
+Existing FOI:'139'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '139'
+[[157]]
+Inserting new FOI:'157'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '157'
+Existing FOI:'140'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '140'
+Existing FOI:'141'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '141'
+Existing FOI:'142'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '142'
+Existing FOI:'143'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '143'
+Existing FOI:'144'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '144'
+[[158]]
+Inserting new FOI:'158'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '158'
+Existing FOI:'145'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '145'
+Existing FOI:'146'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '146'
+Existing FOI:'147'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '147'
+Existing FOI:'148'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '148'
+Existing FOI:'149'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '149'
+[[159]]
+Inserting new FOI:'159'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '159'
+Existing FOI:'150'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '150'
+Existing FOI:'151'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '151'
+[[160]]
+Inserting new FOI:'160'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '160'
+Existing FOI:'152'
+Observations '{"Temp": "-16.6", "Vlaga": "81", "Tlak": " 820.2*", "TlakTend": "-", "VjetarSmjer": "-", "VjetarBrzina": "-", "Vrijeme": "-", "VrijemeZnak": "-"}' succesfully inserted for time '2018-02-27T16:00:00' and FOI '152'
+
+****** Scrapper process finished on '2018-02-27T16:30:21.356230' 
+
+****** Scrapper process started on '2018-02-27T16:32:19.738787' 
+
+Processing observations for datetime: '2018-02-27T16:00:00'
+Observations for grad '111' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '112' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '113' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '114' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '153' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '154' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '115' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '116' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '117' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '118' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '119' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '120' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '121' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '122' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '123' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '124' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '125' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '127' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '128' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '129' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '155' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '130' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '131' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '132' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '133' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '134' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '135' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '136' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '156' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '137' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '138' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '139' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '157' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '140' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '141' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '142' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '143' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '144' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '158' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '145' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '146' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '147' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '148' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '149' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '159' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '150' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '151' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '160' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '152' and time '2018-02-27T16:00:00' are already stored in the database
+
+****** Scrapper process finished on '2018-02-27T16:32:21.349770' 
+
+****** Scrapper process started on '2018-02-27T16:33:30.958626' 
+
+Processing observations for datetime: '2018-02-27T16:00:00'
+Observations for grad '111' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '112' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '113' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '114' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '153' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '154' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '115' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '116' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '117' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '118' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '119' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '120' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '121' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '122' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '123' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '124' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '125' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '127' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '128' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '129' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '155' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '130' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '131' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '132' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '133' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '134' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '135' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '136' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '156' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '137' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '138' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '139' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '157' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '140' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '141' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '142' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '143' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '144' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '158' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '145' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '146' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '147' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '148' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '149' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '159' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '150' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '151' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '160' and time '2018-02-27T16:00:00' are already stored in the database
+Observations for grad '152' and time '2018-02-27T16:00:00' are already stored in the database
+
+****** Scrapper process finished on '2018-02-27T16:33:32.576496' 
+
